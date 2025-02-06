@@ -5,7 +5,7 @@ Este es un bot de Discord para gestionar comunidades.
 
 ## Tecnologías
 - Python
-- bot.py
+- discord.py
 
 ## Instalación
 1. Instala las dependencias: `pip install discord.py`
